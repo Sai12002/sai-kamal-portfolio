@@ -1,0 +1,2 @@
+Replace this file with your actual resume PDF and rename it to resume.pdf.
+Then the "View Resume" button on the Home page will work.
